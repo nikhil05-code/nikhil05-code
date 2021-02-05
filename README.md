@@ -17,7 +17,6 @@
 [twitter]: https://twitter.com/Nikhilboggavar2
 [linkedin]: https://www.linkedin.com/in/nikhil-boggavarapu-5514081b6/
 
-<br />
 
 
 <details>
