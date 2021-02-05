@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there,I'm Nikhil 👋
 
 
-**nikhil05-code/nikhil05-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my Data Analyst skills
+- 🌱 I’m currently learning Basic Tools of Data Analysis and Machine Learning Stuff
+- 💬 Ask me about Python,HTML,CSS
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Connect with me:
 
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://.com
+[twitter]: https://twitter.com/Nikhilboggavar2
+[linkedin]: https://www.linkedin.com/in/nikhil-boggavarapu-5514081b6/
