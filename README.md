@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Basic Tools of Data Analysis and Machine Learning Stuff**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
