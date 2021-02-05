@@ -17,4 +17,11 @@
 [twitter]: https://twitter.com/Nikhilboggavar2
 [linkedin]: https://www.linkedin.com/in/nikhil-boggavarapu-5514081b6/
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nikhil05-code)
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Nikhil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nikhil05-code&show_icons=true&hide_border=true" />
+
+</details>
