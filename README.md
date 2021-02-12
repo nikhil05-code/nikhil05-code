@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil05-code&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil05-code" /> </p>
 
-- 🔭 I’m currently working on **on improving my Data Analyst skills**
+- 🔭 I’m currently working on **improving my Data Analyst skills**
 
 - 🌱 I’m currently learning **Basic Tools of Data Analysis and Machine Learning Stuff**
 
